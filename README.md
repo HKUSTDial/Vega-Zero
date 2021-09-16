@@ -4,6 +4,7 @@ Vega-Zero is a visualization grammar by simplifying Vega-Lite, with the main pur
 
 Thus, it is much easier to use Vega-Zero to train a sequence-to-sequence model for generating a sequence output. 
 Vega-Zero can be used to support some learning tasks, e.g., translating a natural language query to visualization.
+Please refer to our [paper](https://github.com/Thanksyy/Vega-Zero/blob/main/ncNet-VIS21.pdf) at IEEE VIS 2021 for more details.
 
 ## Definition 
 
