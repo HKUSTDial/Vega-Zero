@@ -44,9 +44,9 @@ Please follow the examples in the ```examples.ipynb```, if you want to render th
 
 ```bibTeX
 @inproceedings{ncnet,
-author    = {Yuyu Luo and Nan Tang and Guoliang Li and Jiewei Tang and Chengliang Chai and Xuedi Qin},
+author    = {Yuyu Luo and Nan Tang and Guoliang Li and Jiawei Tang and Chengliang Chai and Xuedi Qin},
 title     = {Natural Language to Visualization by Neural Machine Translation},
-booktitle = {{IEEE IEEE Visualization Conference (VIS)}},
+booktitle = {{IEEE Visualization Conference (VIS)}},
 year      = {2021},
 }
 ```
